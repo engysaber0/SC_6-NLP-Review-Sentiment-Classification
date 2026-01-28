@@ -79,4 +79,6 @@ We built ensembles across RoBERTa-large, BERT-base, and DistilBERT-base:
 ## Repository & Usage
 
 You can check the project repo [here](https://github.com/Rasha-Abd-El-Khalik/Neural-Network-2026).
+Link of competition [here](https://www.kaggle.com/competitions/nn-26-review-sentiment-classification/leaderboard).
+
 
